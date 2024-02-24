@@ -1,0 +1,37 @@
+body{
+  font-size: 6em;
+  text-align: center;
+}
+
+/*カウント数字設定*/
+.count{
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
+
+/*タイピング全体の設定*/
+.wrap{
+  margin-top: 20px;
+  padding: 80px 40px;
+  background-color: #666;
+  font-weight: bold;
+  color: #fff;
+}
+
+/*正しくタイプされた場合のテキスト設定*/
+.typed{
+  color: lightgreen;
+}
+
+/*ミスタイプの場合の背景設定*/
+.mistyped{
+  background-color: red;
+}
+
+/*スコア数字設定*/
+.wordcount{
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
